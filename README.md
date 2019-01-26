@@ -1,13 +1,13 @@
 #In the name of God
-## Artificial-intelligence-learning
+ ## Artificial-intelligence-learning
 
-###Summary of Hands-on-machine-Gueron book.
+  ###Summary of Hands-on-machine-Gueron book.
 
     There is a pdf version of this book in this repository and in books folder.
 
-lets start : 
+  lets start : 
 
-## Chapter I : The machine learning landscape.
+  #### Chapter I : The machine learning landscape.
     An intuduction for Machine Learning : 
         Machine learning is the field of study that gives the computers
         the ability to learn without being explictly programmed.
