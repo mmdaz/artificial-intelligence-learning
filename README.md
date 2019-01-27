@@ -1,7 +1,7 @@
 #In the name of God
  ## Artificial-intelligence-learning
 
-  ###Summary of Hands-on-machine-Gueron book.
+  ### Summary of Hands-on-machine-Gueron book.
 
     There is a pdf version of this book in this repository and in books folder.
 
@@ -23,3 +23,13 @@
         * A ML system can adapt to new data.(Fluctuiting environments)
         * Getting insights from a big data.
     
+    Types of ML Systems:
+        * Whether or not they are trained with human supervision:
+            + Supervised Learning
+            + Unsupervised Learning
+            + Semisupervised Learning
+            + Reinforcement Learning
+                . Supervised Learning;
+                    We have labled data to train.
+                    It's tipical task is classification of data (see Figure 1-5)
+                    
