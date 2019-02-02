@@ -29,7 +29,20 @@
             + Unsupervised Learning
             + Semisupervised Learning
             + Reinforcement Learning
-                . Supervised Learning;
+                . Supervised Learning:
                     We have labled data to train.
                     It's tipical task is classification of data (see Figure 1-5)
+                    for example : we have a set of features of a car (mileage, age, brand, etc)
+                    and their prices and we want to predict price of other cars.
+                . Unsupervised Learning:
+                    We have unlabed data.
+                    Tasks:
+                        1.Demonsionality reduction : simplify data without losing data.
+                        for example : since a car's mileage may be correlated with its age and we can merge them in to 
+                        feature and then feed into supervised learning algorithm.
+                        This is called feature extraction.
+                        
+                        2.Anomaly detection : say us that a new instance is normal(usual) or not.(see Figure 1-10)
+                        
+                          
                     
