@@ -48,4 +48,9 @@
                     For example google photos service that it automatically recognizes that a same person A shows up in 
                     photos 1, 2, 4.
                     and system set just one lable per person to tell you who is he/she.
-                
+                Reinforcement Learning:
+                    The learning system called an agent, can observe the environment, select and perform actions.
+                    It gets rewards in return (or penalties in the form of negative rewards).It must then 
+                    learn by itself what is thee best strategy, called a policy, to get the most reward over time.
+                    A policy defines what action the agant should choose when it is in given situation.(see figure 1-12)
+                    example : DeepMind's AlphaGo programm.
