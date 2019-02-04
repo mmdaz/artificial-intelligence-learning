@@ -43,6 +43,9 @@
                         This is called feature extraction.
                         
                         2.Anomaly detection : say us that a new instance is normal(usual) or not.(see Figure 1-10)
-                        
-                          
-                    
+                . Semisupervised Learning:
+                    It is combination of unsupervised and supervised learning.
+                    For example google photos service that it automatically recognizes that a same person A shows up in 
+                    photos 1, 2, 4.
+                    and system set just one lable per person to tell you who is he/she.
+                
